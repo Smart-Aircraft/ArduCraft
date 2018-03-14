@@ -1,5 +1,5 @@
 # Smart-Aircraft
-EEE212 project, xjtlu
+EEE212 project - Xi'an Jiaotong-Liverpool University
 
 Hardware Platform:  
     Arduino mega 2560
