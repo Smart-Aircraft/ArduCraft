@@ -9,3 +9,5 @@ Sensors:
     HMC5883L  
     MS5611  
     NEO GPS M8N
+
+The main function is in src/ArduCraft.ino
