@@ -1,5 +1,8 @@
 #include "PWM.h"
+#include "GPS.h"
 #include "MPU6050.h"
+#include "HMC5883L.h"
+#include "MS5611.h"
 
 #define KP_ROLL           0.2
 #define KD_ROLL           0.03
