@@ -72,7 +72,6 @@ double PitchRateDev = 0;
 
 double RollRateInt = 0;
 double PitchRateInt = 0;
-
 double RollRateDevLast = 0;
 double PitchRateDevLast = 0;
 
@@ -101,7 +100,10 @@ unsigned long SafeTimer = 0;
 
 uint8_t SaveSREG;
 
+GPS gps;
 MPU6050 Gyro;
+HMC5883L Compass;
+MS5611 Baro;
 
 void setup() 
 {
