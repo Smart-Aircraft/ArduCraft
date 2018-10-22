@@ -1,4 +1,9 @@
 # Smart-Aircraft
+Function:
+1. Manual Mode
+2. self-stabilize
+3. Return Home
+
 Hardware Platform:  
 |---Arduino mega 2560
 
@@ -8,4 +13,4 @@ Sensors:
 |---MS5611  
 |---NEO GPS M8N
 
-The main function is in src/ArduCraft.ino
+function main() is in src/ArduCraft.ino
